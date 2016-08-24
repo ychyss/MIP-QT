@@ -8,4 +8,5 @@ void meth(){
 }
 
 void meth2(){
+  printf("ddddd");
 }
