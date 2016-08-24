@@ -6,3 +6,6 @@ void main()
 void meth(){
 
 }
+
+void meth2(){
+}
